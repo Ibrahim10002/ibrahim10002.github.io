@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# on Portfolio gihHub MAZREK Ibrahim</title>
+    <link>http://localhost:1313/tags/c%23/</link>
+    <description>Recent content in C# on Portfolio gihHub MAZREK Ibrahim</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2024 19:53:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/c%23/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projet 2</title>
+      <link>http://localhost:1313/projets/projet2/</link>
+      <pubDate>Wed, 17 Apr 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/projets/projet2/</guid>
+      <description>Projet d&amp;rsquo;écritue en Xml et Json Ce projet permet de crée, lire et modifier des fichier xml et json&#xA;dans ces images les donnée sont en xml :&#xA;dans ce contexte on peut ajouter un nouveau client en json:</description>
+    </item>
+    <item>
+      <title>Projet 1</title>
+      <link>http://localhost:1313/projets/projet1/</link>
+      <pubDate>Wed, 10 Apr 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/projets/projet1/</guid>
+      <description>Projet Gestion du personnel Ce projet permet la gestion du personnel par service et ainsi la consulation des enfants des salariés.&#xA;Afin d&amp;rsquo;accéder au projet il faut s&amp;rsquo;identifier avec le compte admin :&#xA;En ce qui concerne le personnel, c&amp;rsquo;est à dire les salariés Ce projet permet de consulter, gérer, et supprimer un salariés comme ci-dessous :&#xA;Permet également d&amp;rsquo;ajouter un salarié :&#xA;Dans la partie Service, on peut également modifer et ajouter un service en appuyant sur + et cela fera apparaître un bouton ajouter :</description>
+    </item>
+    <item>
+      <title>Projet 3</title>
+      <link>http://localhost:1313/projets/projet3/</link>
+      <pubDate>Fri, 05 Apr 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/projets/projet3/</guid>
+      <description>Projet d&amp;rsquo;écritue en Xml et Json Ce projet permet simplement de gérer les postes visibles depuis un certains poste précis, selon les rangée et travée dans la première image on vois également que l&amp;rsquo;ont peut ajouté des postes :&#xA;on peut consulter les postes visibles depuis un poste précis</description>
+    </item>
+  </channel>
+</rss>

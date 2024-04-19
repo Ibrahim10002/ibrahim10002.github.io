@@ -1,38 +1,43 @@
 ---
 title: "Projet 1"
-date: 2022-12-09T19:53:33+05:30
+date: 2024-04-10T19:53:33+05:30
 draft: false
 author: "Ibrahim"
 tags:
-  - Markdown syntax
-  - Mathjax
-  - example
-image: /images/mathjax.png
+  - c#
+  - MySql
+image: /images/Projet1/P1-Menu.PNG
 description: ""
 toc: true
-mathjax: false
+mathjax: true
 ---
 
-## Mathjax
+## Projet Gestion du personnel
 
-Math equations can be rendered using [Mathjax](https://www.mathjax.org) syntax with AMS symbol support.
+Ce projet permet la gestion du personnel par service et ainsi la consulation des enfants des salariés.
 
-Optionally enable this on a per-page basis by adding `mathjax: true` to your frontmatter.
+Afin d'accéder au projet il faut s'identifier avec le compte admin : 
 
-Then, use `$$ ... $$` on a line by itself to render a block equation:
+![](/images/Projet1/P1-Connexon.PNG)
 
-$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | < \text{negligible} $$
+En ce qui concerne le personnel, c'est à dire les salariés
+Ce projet permet de consulter, gérer, et supprimer un salariés  comme ci-dessous :
 
-The raw version is:
+![](/images/Projet1/P1-Item1.PNG)
 
-```
-$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | < \text{negligible} $$
-```
+Permet également d'ajouter un salarié :
+
+![](/images/Projet1/P1-item1.2.PNG)
 
 
-Write in-line equations with `\\( ... \\)` , like \\( x^n / y \\) . It's easy!
+Dans la partie Service, on peut également modifer et ajouter un service en appuyant sur + et cela fera apparaître un bouton ajouter :
 
-```
-Write in-line equations with `\\( ... \\)` , like \\( x^n / y \\) . It's easy!
-```
+![](/images/Projet1/P1-Item2.PNG)
+
+
+Consulation des enfants de salarié :
+
+![](/images/Projet1/P1-Item3.PNG)
+
+
 

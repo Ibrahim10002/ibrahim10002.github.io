@@ -106,7 +106,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
+    brandName: "Portfolio Mazrek Ibrahim" # Brand name for the brand | default is the title variable
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -125,7 +125,7 @@ params:
     enable: true
     intro: "Bonjour, je suis"
     title: "Ibrahim Mazrek."
-    subtitle: "J'ai construit se site avec gitHub"
+    subtitle: "J'ai construit ce site avec gitHub"
     content: "Je suis étudiant en bts SIO SLAM"
     image: /images/hero.svg
     bottomImage:

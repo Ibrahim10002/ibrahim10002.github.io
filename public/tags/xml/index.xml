@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XML on Portfolio gihHub MAZREK Ibrahim</title>
+    <link>http://localhost:1313/tags/xml/</link>
+    <description>Recent content in XML on Portfolio gihHub MAZREK Ibrahim</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2024 19:53:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/xml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projet 2</title>
+      <link>http://localhost:1313/projets/projet2/</link>
+      <pubDate>Wed, 17 Apr 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/projets/projet2/</guid>
+      <description>Projet d&amp;rsquo;écritue en Xml et Json Ce projet permet de crée, lire et modifier des fichier xml et json&#xA;dans ces images les donnée sont en xml :&#xA;dans ce contexte on peut ajouter un nouveau client en json:</description>
+    </item>
+  </channel>
+</rss>
