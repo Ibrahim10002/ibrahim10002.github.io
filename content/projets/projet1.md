@@ -1,8 +1,8 @@
 ---
-title: "Render Math With Mathjax"
+title: "Projet 1"
 date: 2022-12-09T19:53:33+05:30
 draft: false
-author: "Gurusabarish"
+author: "Ibrahim"
 tags:
   - Markdown syntax
   - Mathjax
