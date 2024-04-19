@@ -10,7 +10,7 @@ tags:
 image: /images/mathjax.png
 description: ""
 toc: true
-mathjax: true
+mathjax: false
 ---
 
 ## Mathjax

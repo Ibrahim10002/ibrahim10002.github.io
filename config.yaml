@@ -276,7 +276,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: Je répond aux mails, n'hésite pas à me contacté !
+    content: Je répond aux mails, n'hésite pas à me contacter !
     btnName: Envoie moi un mail
     btnLink: mailto:imazrek@numerique-educatif.fr
     # formspree:
