@@ -53,7 +53,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "Portfolio Mazrek Ibrahim"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
@@ -123,10 +123,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    intro: "Bonjour, je suis"
+    title: "Ibrahim Mazrek."
+    subtitle: "J'ai construit se site avec gitHub"
+    content: "Je suis étudiant en bts SIO SLAM"
     image: /images/hero.svg
     bottomImage:
       enable: true
